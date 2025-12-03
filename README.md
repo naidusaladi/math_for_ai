@@ -142,4 +142,58 @@
 
 20. Moment Generating Functions (MGF)
 
+# Statistics
+Descriptive Statistics
+
+1. Mean
+
+2. Median
+
+3. Mode
+
+4. Variance
+
+5. Standard Deviation
+
+6. Correlation
+
+7. Covariance
+
+8. Sampling
+
+9. Sampling Distributions
+
+10. Estimation
+
+11. Point Estimation
+
+12. Interval Estimation
+
+13. Hypothesis Testing
+
+14. p-values
+
+15. Confidence Intervals
+
+16. Regression
+
+17. Linear Regression
+
+18. Logistic Regression
+
+19. Maximum Likelihood Estimation (MLE)
+
+20. Bayesian Inference
+
+21. Statistical Significance
+
+22. ANOVA
+
+23. Chi-Square Tests
+
+24. t-Tests
+
+25. Non-parametric Tests
+
+
 
