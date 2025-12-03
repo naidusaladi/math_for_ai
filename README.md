@@ -63,3 +63,41 @@
 18. Norms
 
 19. Projections
+
+# Calculus
+1. Limits
+
+2. Continuity
+
+3. Derivatives
+
+4. Differentiation Rules
+
+5. Partial Derivatives
+
+6. Gradients
+
+7. Hessians
+
+8. Chain Rule
+
+9. Taylor Series
+
+10. Integrals
+
+11. Definite and Indefinite Integrals
+
+12. Multiple Integrals
+
+13. Divergence
+
+14. Curl
+
+15. Jacobians
+
+16. Differential Equations
+
+17. Optimization with Derivatives
+
+18. Vector Calculus
+
