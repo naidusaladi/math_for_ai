@@ -514,3 +514,39 @@ Descriptive Statistics
 17. Rank Computation
 
 18. Determinant Computation
+
+# Vectors
+1. Scalars
+
+2. Vector Components
+
+3. Vector Addition
+
+4. Scalar Multiplication
+
+5. Linear Combination
+
+6. Vector Norms
+
+7. Unit Vectors
+
+8. Dot Product
+
+9. Cross Product
+
+10. Angle Between Vectors
+
+11. Projection of Vectors
+
+12. Vector Spaces
+
+13. Basis Vectors
+
+14. Coordinate Representation
+
+15. Span
+
+16. Linear Independence
+
+18. Subspaces
+
